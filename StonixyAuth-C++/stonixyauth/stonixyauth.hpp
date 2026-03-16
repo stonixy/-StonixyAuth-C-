@@ -29,7 +29,7 @@
 using json = nlohmann::json;
 
 // CONFIGURATION - EDIT THESE
-#define STONIXY_API_BASE    "http://localhost:3000"
+#define STONIXY_API_BASE    "http://stonixyauth.qzz.io"
 #define STONIXY_APP_ID      "YOUR_APPLICATION_ID"
 #define STONIXY_APP_SECRET  "YOUR_APPLICATION_SECRET"
 #define STONIXY_APP_NAME    "YOUR_APPLICATION_NAME"
